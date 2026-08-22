@@ -1,4 +1,8 @@
-<p align="center"> <img width="100%" alt="duckInvasionBanner" src="https://github.com/user-attachments/assets/b629e0a8-3fa8-4460-b464-0f9949a82b05" /> </p> 
+<p align="center">
+<a href="https://github.com/user-attachments/assets/c291045f-6a88-4256-b941-d8633d9c57e9">
+<img width="100%" alt="duckInvasionBanner" src="https://github.com/user-attachments/assets/b629e0a8-3fa8-4460-b464-0f9949a82b05" /> 
+</a>
+</p> 
 <h3 align="center"> The galaxy has seen many threats. None of them were this hungry.</h3>
 
 
@@ -12,15 +16,18 @@ Dieses Repository enthält die Executables, sowie weitere Materialien aus der Pr
 </p>
 
 ## DIE STORY
+<a href="https://github.com/user-attachments/assets/c291045f-6a88-4256-b941-d8633d9c57e9">
 <img width="100%" alt="gameInfos" src="https://github.com/user-attachments/assets/b3017bb1-763e-4e98-9fc4-4d453fe3044d" />
+</a>
 
 ## DAS SPIEL
 Duck Invasion vereint einen Mix aus verschiedenen Gameplay-Elementen. Je nach Level erwartet einen eine Mischung aus Jump & Run, Target Shooting und Horror.
 Die insgesamt fünf Level wurden jeweils von einem Mitglied unseres Teams entwickelt und schließen alle mit einem Bosskampf ab. 
 <p> <b>Alle Level verbindet ein gemeinsames Ziel:</b> <br>
 So schnell wie möglich die Raumstation zu durchqueren und dabei eine eigene Bestzeit aufzustellen.</p>
-
+<a href="https://github.com/user-attachments/assets/c291045f-6a88-4256-b941-d8633d9c57e9">
 <img width="100%" alt="levelÜbersicht" src="https://github.com/user-attachments/assets/de9fa838-9417-428f-bb18-bb474aff7487" />
+</a>
 
 
 ## HERUNTERLADEN & STARTEN
@@ -32,7 +39,9 @@ So schnell wie möglich die Raumstation zu durchqueren und dabei eine eigene Bes
 3. Viel Spaß beim Spielen!
 
 <p align="center">
+<a href="https://github.com/user-attachments/assets/c291045f-6a88-4256-b941-d8633d9c57e9">
 <img width="414" height="204" alt="steuerung" src="https://github.com/user-attachments/assets/8f348737-be91-43f4-a438-79b82135cc08" />
+</a>
 </p>
 
 ## ERWORBENE FÄHIGKEITEN
@@ -67,8 +76,9 @@ JA.
 Er hat zu viel gefuttert und ist jetzt im Food-Coma.
 
 <p align="center">
+<a href="https://github.com/user-attachments/assets/c291045f-6a88-4256-b941-d8633d9c57e9">
 <img width= "35%" alt="hinweis" src="https://github.com/user-attachments/assets/bb1abe77-bc6d-4b65-80f1-1e0e6361b3b6" />
-  
+</a>
 </p>
 
 ---
